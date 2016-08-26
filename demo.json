@@ -1,0 +1,14 @@
+{
+	"DeviceName": "BLE SERVER",
+	"ScanPeriod": 1,
+	"AutoPilot": {
+		"ServiceUUID": "0001001000001000800000805f9babcd",
+		"CharacteristicUUID": "0001001100001000800000805f9babcd",
+
+		"Header": {
+			"Port": 6,
+			"Link": 0,
+			"Channel": 0
+		}
+	}
+}
